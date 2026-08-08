@@ -272,6 +272,6 @@ const DEFAULT_JOBS = [
     postedDate: "2026-08-08",
     tags: ["Tech Mahindra", "Chat Process", "Sector 62"]
   }
-]
+
   
 ];
