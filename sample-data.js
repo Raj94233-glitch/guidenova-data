@@ -215,5 +215,63 @@ const DEFAULT_JOBS = [
     postedDate: "2026-08-08",
     urgency: "Mega Drive",
     tags: ["Senior Analyst", "QA", "Noida", "EXL Service"]
+  },
+
+[
+  {
+    id: "walkin-009",
+    title: "Customer Service Representative (Voice) - Freshers",
+    company: "TELUS Digital",
+    category: "BPO / Voice Process",
+    location: "Noida",
+    areaDetail: "Tower-6, UG Floor, Candor Techspace, Sector 135, Noida, UP 201304",
+    package: "Not specified — confirm on apply",
+    experience: "Freshers",
+    workingDays: "Not specified",
+    criteria: "Inbound calls/chats handling, wire transfer customer support",
+    walkinDate: "Not currently listed for Aug 2026 — last confirmed drive was 20 Sept 2025, check live",
+    contactPerson: "Not specified",
+    documentsRequired: "Not specified",
+    applyUrl: "https://in.talent.com/jobs/k-walk-interview-l-noida-uttar-pradesh",
+    postedDate: "2026-08-08",
+    tags: ["TELUS Digital", "Voice Process", "Noida"]
+  },
+  {
+    id: "walkin-010",
+    title: "Customer Support Executive - Voice Process",
+    company: "HCL Technologies",
+    category: "BPO / Customer Support",
+    location: "Noida",
+    areaDetail: "A-8 & A-9, Sector 60, Noida, UP 201301",
+    package: "Not specified — confirm on apply",
+    experience: "Freshers (Any Grad/UG, B.Tech/MTech/BCA/MCA not eligible for this role)",
+    workingDays: "Not specified",
+    criteria: "Graduate/UG, No regular students, No Law Graduates",
+    walkinDate: "Not date-specific — listed as ongoing hiring",
+    contactPerson: "Not specified",
+    documentsRequired: "Not specified",
+    applyUrl: "https://in.jooble.org/jobs-walkin-interview/Sector+62-Noida",
+    postedDate: "2026-08-08",
+    tags: ["HCL Technologies", "Voice Process", "Sector 60"]
+  },
+  {
+    id: "walkin-011",
+    title: "International Chat Process - Freshers",
+    company: "Tech Mahindra",
+    category: "BPO / Chat Process",
+    location: "Noida",
+    areaDetail: "Embassy Galaxy, Tower D, Sector 62, Noida",
+    package: "Not specified — confirm on apply",
+    experience: "Freshers to 4 Yrs",
+    workingDays: "Not specified",
+    criteria: "Any Graduate, handle international customer queries via chat",
+    walkinDate: "Previously ran 1-5 June 2026 — confirm current status before visiting",
+    contactPerson: "Not specified",
+    documentsRequired: "Not specified",
+    applyUrl: "https://www.fresherstech.com/tech-mahindra-walk-in-interview-for-freshers/",
+    postedDate: "2026-08-08",
+    tags: ["Tech Mahindra", "Chat Process", "Sector 62"]
   }
+]
+  
 ];
