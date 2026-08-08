@@ -511,5 +511,70 @@ const DEFAULT_JOBS = [
     postedDate: "2026-08-08",
     urgency: "Urgent Walk-In",
     tags: ["Telesales", "Real Estate", "Moneytree Realty", "Freshers", "Noida"]
-  }
+  },
+{
+  id: "walkin-020",
+
+  title: "Customer Service Associate",
+
+  company: "Amazon",
+
+  logoBg: "linear-gradient(135deg, #FF9900, #232F3E)",
+
+  logoText: "AMZ",
+
+  verified: true,
+
+  category: "Customer Service",
+
+  location: "Noida",
+
+  areaDetail: "Amazon Development Centre India, Sector 62, Noida (DEL18)",
+
+  package: "Salary not publicly specified in the current official listing",
+
+  experience: "0 - 1 Yr (Freshers Eligible)",
+
+  workingDays: "5 Days / Week | Rotational Shifts | Weekends & Holidays May Be Required",
+
+  criteria: "Minimum age 18 years. Candidates must have the right to work in India, strong English communication skills (written and verbal), and experience working with computers. Must be comfortable working in varying and rotating shifts, including early, late, overnight and weekend shifts.",
+
+  walkinDate: "2026-08-10",
+
+  walkinDateDisplay: "Recent hiring / joining activity reported around 10th Aug 2026 — walk-in date not officially confirmed",
+
+  walkinTime: "Not officially confirmed",
+
+  venue: "Amazon Development Centre India Pvt. Ltd., B-2/62, Tower #3, 5th Floor, Block B, Industrial Area, Sector 62, Noida, Uttar Pradesh - 201309",
+
+  googleMapsUrl: "https://maps.google.com/?q=Amazon+Development+Centre+B-2%2F62+Tower+3+Sector+62+Noida",
+
+  contactPerson: "Not publicly specified",
+
+  rounds: "1. Initial Screening -> 2. Assessment -> 3. Interview / Hiring Process",
+
+  documentsRequired: "Updated Resume, Valid Government Photo ID / Original ID for Verification",
+
+  applyUrl: "https://www.amazon.jobs/en-gb/search?base_query=Customer%20Service%20Associate&country=IND&loc_query=India",
+
+  postedDate: "2026-04-09",
+
+  urgency: "Current Hiring - Walk-In Status To Be Confirmed",
+
+  tags: [
+    "Customer Service Associate",
+    "Customer Support",
+    "Amazon",
+    "Noida",
+    "Sector 62",
+    "DEL18",
+    "Freshers Eligible",
+    "Voice Process",
+    "International Customer Service",
+    "Rotational Shift",
+    "Night Shift",
+    "Work From Office"
+  ]
+},
+  
 ];
