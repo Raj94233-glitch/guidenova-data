@@ -217,7 +217,7 @@ const DEFAULT_JOBS = [
     tags: ["Senior Analyst", "QA", "Noida", "EXL Service"]
   },
 
-[
+
   {
     id: "walkin-009",
     title: "Customer Service Representative (Voice) - Freshers",
