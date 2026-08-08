@@ -1,7 +1,71 @@
 // Corporate Walk-in Jobs Sample Dataset
 const DEFAULT_JOBS = [
+
+{
+  id: "walkin-prov-001",
+
+  title: "Process Analyst - Back Office",
+
+  company: "Provana",
+
+  logoBg: "linear-gradient(135deg, #1F4E79, #2E75B6)",
+
+  logoText: "PRO",
+
+  verified: true,
+
+  category: "Process Analyst",
+
+  location: "Noida",
+
+  areaDetail: "A-68, Sector 64, Noida (Nearest Metro: Sector 62)",
+
+  package: "Up to ₹3 LPA",
+
+  experience: "0 - 1 Yr (Freshers Eligible)",
+
+  workingDays: "5 Days Working | Night / Rotational Shifts",
+
+  criteria: "Graduate in any stream. Minimum age 22 years. Good command of MS Excel, good typing speed, strong communication and analytical skills. Candidates must be comfortable working in night shifts.",
+
+  walkinDate: "2026-07-06",
+
+  walkinDateDisplay: "6th July 2026",
+
+  walkinTime: "10:30 AM - 03:30 PM IST",
+
+  venue: "Provana, A-68, Sector 64, Noida, Uttar Pradesh (Nearest Metro Station: Sector 62, Noida)",
+
+  googleMapsUrl: "https://maps.google.com/?q=Provana+A-68+Sector+64+Noida",
+
+  contactPerson: "Rupam",
+
+  rounds: "1. HR Screening -> 2. Assessment / Typing Test -> 3. Manager Round",
+
+  documentsRequired: "Updated Resume, Government ID Proof (Aadhaar/PAN), Academic Documents",
+
+  applyUrl: "https://www.provana.com/careers",
+
+  postedDate: "2026-07-09",
+
+  urgency: "Walk-In Hiring",
+
+  tags: [
+    "Process Analyst",
+    "Back Office",
+    "Non-Voice",
+    "Noida",
+    "Sector 64",
+    "Near Sector 62 Metro",
+    "Freshers Eligible",
+    "Night Shift",
+    "Provana"
+  ]
+},
+
+  
   {
-    id: "walkin-001",
+    id: "walkin-002",
     title: "Process Analyst - US Healthcare & Revenue Cycle",
     company: "Genpact India",
     logoBg: "linear-gradient(135deg, #0052D4, #4364F7)",
@@ -28,7 +92,7 @@ const DEFAULT_JOBS = [
     tags: ["Process Analyst", "US Shift", "Noida", "Genpact", "Freshers Eligible"]
   },
   {
-    id: "walkin-002",
+    id: "walkin-003",
     title: "International Customer Support Specialist (Voice/Chat)",
     company: "Concentrix",
     logoBg: "linear-gradient(135deg, #7F00FF, #E100FF)",
@@ -55,7 +119,7 @@ const DEFAULT_JOBS = [
     tags: ["Customer Support", "Gurugram", "Voice Process", "Concentrix", "24/7 Shifts"]
   },
   {
-    id: "walkin-003",
+    id: "walkin-004",
     title: "Junior IT Support Engineer & L1 Service Desk",
     company: "HCLTech",
     logoBg: "linear-gradient(135deg, #11998e, #38ef7d)",
@@ -82,7 +146,7 @@ const DEFAULT_JOBS = [
     tags: ["IT Engineer", "L1 Support", "Noida", "HCLTech", "Service Desk"]
   },
   {
-    id: "walkin-004",
+    id: "walkin-005",
     title: "Operations Process Associate - Financial Data Analytics",
     company: "WNS Global Services",
     logoBg: "linear-gradient(135deg, #FF416C, #FF4B2B)",
@@ -109,7 +173,7 @@ const DEFAULT_JOBS = [
     tags: ["Process Associate", "Finance", "Gurugram", "WNS", "Day Shift"]
   },
   {
-    id: "walkin-005",
+    id: "walkin-006",
     title: "Associate Software Developer (Java / Python / SQL)",
     company: "Tech Mahindra",
     logoBg: "linear-gradient(135deg, #ED213A, #93291E)",
@@ -136,7 +200,7 @@ const DEFAULT_JOBS = [
     tags: ["Software Developer", "Java", "Python", "Noida", "Tech Mahindra"]
   },
   {
-    id: "walkin-006",
+    id: "walkin-007",
     title: "Technical Customer Support Executive (SaaS / Cloud)",
     company: "Teleperformance",
     logoBg: "linear-gradient(135deg, #2193b0, #6dd5ed)",
@@ -163,7 +227,7 @@ const DEFAULT_JOBS = [
     tags: ["Tech Support", "SaaS", "Gurugram", "Teleperformance"]
   },
   {
-    id: "walkin-007",
+    id: "walkin-008",
     title: "Talent Acquisition Associate / HR Recruiter",
     company: "Adecco India",
     logoBg: "linear-gradient(135deg, #f12711, #f5af19)",
@@ -190,7 +254,7 @@ const DEFAULT_JOBS = [
     tags: ["HR Recruiter", "Noida", "Day Shift", "Adecco"]
   },
   {
-    id: "walkin-008",
+    id: "walkin-009",
     title: "Senior Process Analyst - Quality Assurance & Operations",
     company: "EXL Service",
     logoBg: "linear-gradient(135deg, #0F2027, #2C5364)",
@@ -217,7 +281,7 @@ const DEFAULT_JOBS = [
     tags: ["Senior Analyst", "QA", "Noida", "EXL Service"]
   },
   {
-    id: "walkin-009",
+    id: "walkin-010",
     title: "Customer Service Representative (Voice) - Freshers",
     company: "TELUS Digital",
     logoBg: "linear-gradient(135deg, #2563eb, #06b6d4)",
@@ -244,7 +308,7 @@ const DEFAULT_JOBS = [
     tags: ["TELUS Digital", "Voice Process", "Noida"]
   },
   {
-    id: "walkin-010",
+    id: "walkin-011",
     title: "Customer Support Executive - Voice Process",
     company: "HCL Technologies",
     logoBg: "linear-gradient(135deg, #11998e, #38ef7d)",
@@ -271,7 +335,7 @@ const DEFAULT_JOBS = [
     tags: ["HCL Technologies", "Voice Process", "Sector 60"]
   },
   {
-    id: "walkin-011",
+    id: "walkin-012",
     title: "International Chat Process - Freshers",
     company: "Tech Mahindra",
     logoBg: "linear-gradient(135deg, #ED213A, #93291E)",
