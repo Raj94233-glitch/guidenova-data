@@ -216,12 +216,13 @@ const DEFAULT_JOBS = [
     urgency: "Mega Drive",
     tags: ["Senior Analyst", "QA", "Noida", "EXL Service"]
   },
-
-
   {
     id: "walkin-009",
     title: "Customer Service Representative (Voice) - Freshers",
     company: "TELUS Digital",
+    logoBg: "linear-gradient(135deg, #2563eb, #06b6d4)",
+    logoText: "TEL",
+    verified: true,
     category: "BPO / Voice Process",
     location: "Noida",
     areaDetail: "Tower-6, UG Floor, Candor Techspace, Sector 135, Noida, UP 201304",
@@ -230,16 +231,25 @@ const DEFAULT_JOBS = [
     workingDays: "Not specified",
     criteria: "Inbound calls/chats handling, wire transfer customer support",
     walkinDate: "Not currently listed for Aug 2026 — last confirmed drive was 20 Sept 2025, check live",
+    walkinDateDisplay: "Not currently listed for Aug 2026 — check live",
+    walkinTime: "Not specified",
+    venue: "Tower-6, UG Floor, Candor Techspace, Sector 135, Noida, UP 201304",
+    googleMapsUrl: "https://maps.google.com/?q=TELUS+Digital+Sector+135+Noida",
     contactPerson: "Not specified",
+    rounds: "Selection process not specified — confirm on apply",
     documentsRequired: "Not specified",
     applyUrl: "https://in.talent.com/jobs/k-walk-interview-l-noida-uttar-pradesh",
     postedDate: "2026-08-08",
+    urgency: "Check Live Status",
     tags: ["TELUS Digital", "Voice Process", "Noida"]
   },
   {
     id: "walkin-010",
     title: "Customer Support Executive - Voice Process",
     company: "HCL Technologies",
+    logoBg: "linear-gradient(135deg, #11998e, #38ef7d)",
+    logoText: "HCL",
+    verified: true,
     category: "BPO / Customer Support",
     location: "Noida",
     areaDetail: "A-8 & A-9, Sector 60, Noida, UP 201301",
@@ -248,16 +258,25 @@ const DEFAULT_JOBS = [
     workingDays: "Not specified",
     criteria: "Graduate/UG, No regular students, No Law Graduates",
     walkinDate: "Not date-specific — listed as ongoing hiring",
+    walkinDateDisplay: "Ongoing Hiring — Confirm Before Visit",
+    walkinTime: "Not specified",
+    venue: "A-8 & A-9, Sector 60, Noida, UP 201301",
+    googleMapsUrl: "https://maps.google.com/?q=HCL+Technologies+Sector+60+Noida",
     contactPerson: "Not specified",
+    rounds: "Selection process not specified — confirm on apply",
     documentsRequired: "Not specified",
     applyUrl: "https://in.jooble.org/jobs-walkin-interview/Sector+62-Noida",
     postedDate: "2026-08-08",
+    urgency: "Ongoing Hiring",
     tags: ["HCL Technologies", "Voice Process", "Sector 60"]
   },
   {
     id: "walkin-011",
     title: "International Chat Process - Freshers",
     company: "Tech Mahindra",
+    logoBg: "linear-gradient(135deg, #ED213A, #93291E)",
+    logoText: "TECHM",
+    verified: true,
     category: "BPO / Chat Process",
     location: "Noida",
     areaDetail: "Embassy Galaxy, Tower D, Sector 62, Noida",
@@ -266,12 +285,16 @@ const DEFAULT_JOBS = [
     workingDays: "Not specified",
     criteria: "Any Graduate, handle international customer queries via chat",
     walkinDate: "Previously ran 1-5 June 2026 — confirm current status before visiting",
+    walkinDateDisplay: "Previously ran 1-5 June 2026 — confirm current status",
+    walkinTime: "Not specified",
+    venue: "Embassy Galaxy, Tower D, Sector 62, Noida",
+    googleMapsUrl: "https://maps.google.com/?q=Tech+Mahindra+Sector+62+Noida",
     contactPerson: "Not specified",
+    rounds: "Selection process not specified — confirm on apply",
     documentsRequired: "Not specified",
     applyUrl: "https://www.fresherstech.com/tech-mahindra-walk-in-interview-for-freshers/",
     postedDate: "2026-08-08",
+    urgency: "Confirm Current Status",
     tags: ["Tech Mahindra", "Chat Process", "Sector 62"]
   }
-
-  
 ];
