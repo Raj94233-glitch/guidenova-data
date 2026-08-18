@@ -1,0 +1,942 @@
+{
+  "institute": "National Institute of Technology Patna",
+  "exam": "JoSAA",
+  "year": 2026,
+  "round": "Final Round",
+  "stateQuota": {
+    "home": "BIHAR",
+    "other": "Other than BIHAR"
+  },
+  "categoryColumns": [
+    "open",
+    "openPwd",
+    "genEws",
+    "genEwsPwd",
+    "sc",
+    "scPwd",
+    "st",
+    "stPwd",
+    "obcNcl",
+    "obcNclPwd",
+    "total"
+  ],
+  "programs": [
+    {
+      "program": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 17,
+          "openPwd": 1,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 7,
+          "scPwd": 0,
+          "st": 3,
+          "stPwd": 1,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 17,
+          "openPwd": 2,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 7,
+          "scPwd": 0,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 5,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 2,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 3,
+        "obcNclPwd": 0,
+        "total": 12
+      }
+    },
+    {
+      "program": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 23,
+          "openPwd": 1,
+          "genEws": 5,
+          "genEwsPwd": 1,
+          "sc": 9,
+          "scPwd": 1,
+          "st": 4,
+          "stPwd": 0,
+          "obcNcl": 15,
+          "obcNclPwd": 1,
+          "total": 60
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 22,
+          "openPwd": 1,
+          "genEws": 5,
+          "genEwsPwd": 2,
+          "sc": 9,
+          "scPwd": 1,
+          "st": 4,
+          "stPwd": 0,
+          "obcNcl": 15,
+          "obcNclPwd": 1,
+          "total": 60
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 6,
+        "openPwd": 0,
+        "genEws": 2,
+        "genEwsPwd": 0,
+        "sc": 2,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 4,
+        "obcNclPwd": 0,
+        "total": 15
+      }
+    },
+    {
+      "program": "Electrical Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 17,
+          "openPwd": 1,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 7,
+          "scPwd": 1,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 17,
+          "openPwd": 1,
+          "genEws": 4,
+          "genEwsPwd": 2,
+          "sc": 6,
+          "scPwd": 0,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 5,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 2,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 3,
+        "obcNclPwd": 0,
+        "total": 12
+      }
+    },
+    {
+      "program": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 15,
+          "openPwd": 1,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 6,
+          "scPwd": 0,
+          "st": 2,
+          "stPwd": 1,
+          "obcNcl": 10,
+          "obcNclPwd": 1,
+          "total": 40
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 14,
+          "openPwd": 2,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 6,
+          "scPwd": 0,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 10,
+          "obcNclPwd": 1,
+          "total": 40
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 4,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 3,
+        "obcNclPwd": 0,
+        "total": 10
+      }
+    },
+    {
+      "program": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 3
+      }
+    },
+    {
+      "program": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 12,
+          "openPwd": 1,
+          "genEws": 3,
+          "genEwsPwd": 0,
+          "sc": 5,
+          "scPwd": 0,
+          "st": 2,
+          "stPwd": 0,
+          "obcNcl": 8,
+          "obcNclPwd": 1,
+          "total": 32
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 12,
+          "openPwd": 1,
+          "genEws": 3,
+          "genEwsPwd": 0,
+          "sc": 5,
+          "scPwd": 0,
+          "st": 2,
+          "stPwd": 0,
+          "obcNcl": 8,
+          "obcNclPwd": 1,
+          "total": 32
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 3,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 2,
+        "obcNclPwd": 0,
+        "total": 8
+      }
+    },
+    {
+      "program": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 17,
+          "openPwd": 2,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 6,
+          "scPwd": 1,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 17,
+          "openPwd": 2,
+          "genEws": 4,
+          "genEwsPwd": 0,
+          "sc": 6,
+          "scPwd": 1,
+          "st": 3,
+          "stPwd": 0,
+          "obcNcl": 12,
+          "obcNclPwd": 1,
+          "total": 46
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 5,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 2,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 3,
+        "obcNclPwd": 0,
+        "total": 12
+      }
+    },
+    {
+      "program": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 11,
+          "openPwd": 1,
+          "genEws": 3,
+          "genEwsPwd": 0,
+          "sc": 4,
+          "scPwd": 0,
+          "st": 2,
+          "stPwd": 0,
+          "obcNcl": 8,
+          "obcNclPwd": 1,
+          "total": 30
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 10,
+          "openPwd": 1,
+          "genEws": 3,
+          "genEwsPwd": 0,
+          "sc": 4,
+          "scPwd": 0,
+          "st": 2,
+          "stPwd": 0,
+          "obcNcl": 8,
+          "obcNclPwd": 1,
+          "total": 29
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 3,
+        "openPwd": 0,
+        "genEws": 1,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 2,
+        "obcNclPwd": 0,
+        "total": 8
+      }
+    },
+    {
+      "program": "Architecture (5 Years, Bachelor of Architecture)",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 5,
+          "openPwd": 1,
+          "genEws": 2,
+          "genEwsPwd": 0,
+          "sc": 2,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 1,
+          "obcNcl": 4,
+          "obcNclPwd": 0,
+          "total": 16
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 5,
+          "openPwd": 1,
+          "genEws": 2,
+          "genEwsPwd": 0,
+          "sc": 2,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 1,
+          "obcNcl": 4,
+          "obcNclPwd": 0,
+          "total": 16
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 1,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 4
+      }
+    },
+    {
+      "program": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 1,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 0,
+        "obcNclPwd": 0,
+        "total": 2
+      }
+    },
+    {
+      "program": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 0,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 2
+      }
+    },
+    {
+      "program": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 0,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 2
+      }
+    },
+    {
+      "program": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 0,
+        "obcNclPwd": 0,
+        "total": 2
+      }
+    },
+    {
+      "program": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 1,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 9
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 3
+      }
+    },
+    {
+      "program": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 2,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 0,
+          "stPwd": 0,
+          "obcNcl": 1,
+          "obcNclPwd": 0,
+          "total": 5
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 2,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 0,
+          "stPwd": 0,
+          "obcNcl": 1,
+          "obcNclPwd": 0,
+          "total": 5
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 0,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 0,
+        "obcNclPwd": 0,
+        "total": 1
+      }
+    },
+    {
+      "program": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 2,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 10
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 3
+      }
+    },
+    {
+      "program": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 2,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 10
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 1,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 1,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 1,
+        "obcNclPwd": 0,
+        "total": 3
+      }
+    },
+    {
+      "program": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "statePools": {
+        "Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Home State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 1,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 0,
+          "st": 1,
+          "stPwd": 0,
+          "obcNcl": 3,
+          "obcNclPwd": 0,
+          "total": 10
+        },
+        "Other than Bihar": {
+          "seatPool": "Gender-Neutral",
+          "seatType": "Other State",
+          "open": 4,
+          "openPwd": 0,
+          "genEws": 2,
+          "genEwsPwd": 0,
+          "sc": 1,
+          "scPwd": 1,
+          "st": 0,
+          "stPwd": 0,
+          "obcNcl": 2,
+          "obcNclPwd": 0,
+          "total": 10
+        }
+      },
+      "femaleOnly": {
+        "seatPool": "Female-only",
+        "seatType": "Female-only (including Supernumerary)",
+        "open": 2,
+        "openPwd": 0,
+        "genEws": 0,
+        "genEwsPwd": 0,
+        "sc": 0,
+        "scPwd": 0,
+        "st": 0,
+        "stPwd": 0,
+        "obcNcl": 2,
+        "obcNclPwd": 0,
+        "total": 2
+      }
+    }
+  ],
+  "sourceReportedTotals": {
+    "totalSeats": 1023,
+    "femaleSupernumerary": 4,
+    "programTotal": 1019,
+    "categoryTotals": {
+      "open": 393,
+      "openPwd": 21,
+      "genEws": 97,
+      "genEwsPwd": 5,
+      "sc": 146,
+      "scPwd": 8,
+      "st": 73,
+      "stPwd": 4,
+      "obcNcl": 262,
+      "obcNclPwd": 14
+    }
+  }
+}
