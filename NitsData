@@ -30,5 +30,5 @@
   { "name": "NIT Delhi", "overview": "Established in 2010 in New Delhi", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/Screenshot%202026-08-18%20185832.png", "link": "nit-delhi.html", "visible": false },
   { "name": "NIT Goa", "overview": "Established in 2010 in Farmagudi, Goa", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/Screenshot%202026-08-18%20190242.png", "link": "nit-goa.html", "visible": false },
   { "name": "NIT Puducherry", "overview": "Established in 2010 in Karaikal, Puducherry", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/Screenshot%202026-08-18%20190626.png", "link": "nit-puducherry.html", "visible": false },
-  { "name": "NIT Andhra Pradesh", "overview": "Established in 2015 in Tadepalligudem, Andhra Pradesh", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/nit-andhra-pradesh.png", "link": "nit-andhra-pradesh.html", "visible": false }
+  { "name": "NIT Andhra Pradesh", "overview": "Established in 2015 in Tadepalligudem, Andhra Pradesh", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/Screenshot%202026-08-18%20191106.png", "link": "nit-andhra-pradesh.html", "visible": false }
 ]
