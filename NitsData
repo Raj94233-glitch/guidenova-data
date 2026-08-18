@@ -1,5 +1,5 @@
 [
-  { "name": "NIT Trichy", "overview": "Established in 1964 in Tiruchirappalli, Tamil Nadu", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/NitTrichyA.jpeg" alt="NIT1", "link": "nit-trichy.html", "visible": true },
+  { "name": "NIT Trichy", "overview": "Established in 1964 in Tiruchirappalli, Tamil Nadu", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/NitTrichyA.jpeg" , "link": "nit-trichy.html", "visible": true },
   { "name": "NIT Warangal", "overview": "Established in 1959 in Warangal, Telangana", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/nit-warangal.png", "link": "nit-warangal.html", "visible": true },
   { "name": "NIT Surathkal", "overview": "Established in 1960 in Surathkal, Karnataka", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/nit-surathkal.png", "link": "nit-surathkal.html", "visible": true },
   { "name": "NIT Rourkela", "overview": "Established in 1961 in Rourkela, Odisha", "image": "https://cdn.jsdelivr.net/gh/Raj94233-glitch/guidenova-assets@main/nit-rourkela.png", "link": "nit-rourkela.html", "visible": true },
