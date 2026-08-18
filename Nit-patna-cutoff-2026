@@ -1,0 +1,3028 @@
+{
+  "institute": "National Institute of Technology Patna",
+  "exam": "JoSAA",
+  "year": 2026,
+  "round": "Final Round",
+  "stateQuota": {
+    "home": "Bihar",
+    "other": "Other State"
+  },
+  "categories": {
+    "home_ews_f": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5327,
+            5327
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9896,
+            9896
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4267,
+            4863
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7320,
+            7320
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5624,
+            5624
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6513,
+            6513
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8460,
+            8460
+          ]
+        ]
+      }
+    ],
+    "home_ews_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            352,
+            565
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3109,
+            3234
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8595,
+            8595
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7475,
+            7674
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8194,
+            8194
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2622,
+            2724
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4024,
+            4024
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3886,
+            3886
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4956,
+            4966
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            5762,
+            5762
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3582,
+            3937
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4708,
+            4708
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4366,
+            4600
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            9066,
+            9066
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4689,
+            4689
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6198,
+            6403
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7533,
+            7533
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5800,
+            5800
+          ]
+        ]
+      }
+    ],
+    "home_gen_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            1390,
+            1390
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            30982,
+            36222
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            66222,
+            66222
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            61545,
+            66228
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            67567,
+            67567
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            24024,
+            28610
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            38772,
+            38772
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            18449,
+            18449
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            45194,
+            48323
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            57065,
+            57065
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            27190,
+            38895
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            41306,
+            41306
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            43763,
+            44031
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            68525,
+            68525
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            39398,
+            39398
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            50151,
+            57384
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            63011,
+            63011
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            52731,
+            52731
+          ]
+        ]
+      }
+    ],
+    "home_gen_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            1714,
+            2164
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            19450,
+            22237
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            52162,
+            55248
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            36461,
+            50880
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            44219,
+            54546
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            10828,
+            18862
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            26796,
+            28157
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            24066,
+            25421
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            28404,
+            34646
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            35454,
+            36947
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            19686,
+            25462
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            26771,
+            29953
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            23432,
+            30276
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            55878,
+            60774
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            25230,
+            28205
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            28216,
+            42495
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            47000,
+            49637
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            35430,
+            38586
+          ]
+        ]
+      }
+    ],
+    "home_obc_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            902,
+            902
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11465,
+            11534
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            24725,
+            24725
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            20938,
+            22397
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8143,
+            10204
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            15108,
+            15108
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            15438,
+            16028
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11663,
+            12371
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            19222,
+            19222
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            17206,
+            18151
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            24835,
+            24835
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            17111,
+            17111
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            19308,
+            20243
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            24664,
+            24664
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            19012,
+            19012
+          ]
+        ]
+      }
+    ],
+    "home_obc_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            744,
+            1015
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6066,
+            6806
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            17445,
+            18688
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            15468,
+            16540
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            16665,
+            16665
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4991,
+            5941
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7882,
+            8153
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7438,
+            7483
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9875,
+            10380
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            12246,
+            12559
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7021,
+            7904
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8712,
+            8916
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8943,
+            9836
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            19521,
+            20511
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7814,
+            8639
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            12776,
+            13766
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            14971,
+            15748
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11764,
+            12814
+          ]
+        ]
+      }
+    ],
+    "home_other_m": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            380,
+            380
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            426,
+            426
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            776,
+            776
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            395,
+            395
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            178,
+            178
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            152,
+            152
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            354,
+            354
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            578,
+            578
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1022,
+            1022
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            848,
+            848
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            466,
+            466
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1392,
+            1392
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            642,
+            642
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1876,
+            2024
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1058,
+            1058
+          ]
+        ]
+      }
+    ],
+    "home_sc_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            370,
+            370
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7741,
+            7741
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            19955,
+            19955
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3206,
+            17388
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5281,
+            6161
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            12460,
+            12460
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            10245,
+            10970
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            11475,
+            11475
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9112,
+            9112
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            14108,
+            14108
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            20141,
+            20141
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            16740,
+            16740
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            12901,
+            19439
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            17933,
+            17933
+          ]
+        ]
+      }
+    ],
+    "home_sc_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            445,
+            524
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4690,
+            5242
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            9151,
+            9151
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5971,
+            8325
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8121,
+            8121
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1850,
+            4097
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6397,
+            6397
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            5543,
+            5543
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5714,
+            6788
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7623,
+            7623
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4264,
+            5554
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7057,
+            7057
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5604,
+            6780
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            9857,
+            9857
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4255,
+            4255
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6359,
+            7532
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7875,
+            7875
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7774,
+            7774
+          ]
+        ]
+      }
+    ],
+    "home_st_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            157,
+            157
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4211,
+            4211
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4516,
+            4516
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1659,
+            1659
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6887,
+            6887
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5497,
+            5497
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6371,
+            6371
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            10109,
+            10109
+          ]
+        ]
+      }
+    ],
+    "home_st_m": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2618,
+            4225
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8141,
+            8141
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4467,
+            6502
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1552,
+            2563
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3642,
+            3642
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4132,
+            4132
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4377,
+            5846
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6972,
+            6972
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2384,
+            4363
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4473,
+            4473
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5951,
+            6034
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8542,
+            8542
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6736,
+            6736
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6321,
+            6765
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7136,
+            7136
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5574,
+            5574
+          ]
+        ]
+      }
+    ],
+    "other_ews_f": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4086,
+            4086
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9586,
+            9586
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3524,
+            4041
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6635,
+            6635
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4637,
+            4637
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5832,
+            5832
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8115,
+            8115
+          ]
+        ]
+      }
+    ],
+    "other_ews_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            300,
+            366
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2589,
+            2761
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8036,
+            8790
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7489,
+            7615
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7941,
+            7941
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2338,
+            2511
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            2959,
+            2959
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            2773,
+            2773
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4036,
+            4185
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4557,
+            4557
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3015,
+            3089
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3438,
+            3438
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3387,
+            3493
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            8112,
+            8276
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3170,
+            3189
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5441,
+            5908
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6138,
+            6138
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4365,
+            4365
+          ]
+        ]
+      }
+    ],
+    "other_gen_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            720,
+            826
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            23746,
+            25123
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            59826,
+            60789
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            58676,
+            63406
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            64608,
+            64608
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            21647,
+            24677
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            30035,
+            30035
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            28289,
+            28289
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            34471,
+            43527
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            42204,
+            42204
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            26576,
+            29807
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            33953,
+            33953
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            30033,
+            34362
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            47662,
+            47662
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            30272,
+            30272
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            48994,
+            53148
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            53464,
+            53464
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            46091,
+            46091
+          ]
+        ]
+      }
+    ],
+    "other_gen_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            746,
+            892
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            14835,
+            18895
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            42480,
+            50691
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            39403,
+            50873
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            45016,
+            51933
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11488,
+            17282
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            17661,
+            19648
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            17519,
+            20201
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            21981,
+            27263
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            24897,
+            30621
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            18868,
+            21828
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            23361,
+            24120
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            20885,
+            23540
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            53237,
+            53805
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            20130,
+            22754
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            30690,
+            37779
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            38827,
+            41809
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            24785,
+            28690
+          ]
+        ]
+      }
+    ],
+    "other_obc_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            351,
+            351
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11757,
+            12339
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            22255,
+            23366
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            10738,
+            11512
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            13669,
+            13669
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            12855,
+            16396
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            18749,
+            18749
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            12384,
+            12729
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            14593,
+            14593
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            13083,
+            14035
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            14416,
+            14416
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            19073,
+            19498
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            20412,
+            20412
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            16284,
+            16284
+          ]
+        ]
+      }
+    ],
+    "other_obc_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            392,
+            452
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5589,
+            6310
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            15674,
+            16166
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            15533,
+            16901
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            17007,
+            17007
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4625,
+            5437
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            5994,
+            6677
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6455,
+            6637
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8481,
+            9416
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            9276,
+            9933
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5932,
+            6967
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7624,
+            8092
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            7213,
+            7963
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            16438,
+            17742
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6804,
+            7003
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            11007,
+            12360
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            13031,
+            13857
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9219,
+            9589
+          ]
+        ]
+      }
+    ],
+    "other_other_f": [
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            946,
+            946
+          ]
+        ]
+      }
+    ],
+    "other_other_m": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            446,
+            446
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            422,
+            422
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1977,
+            2841
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1274,
+            1274
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            413,
+            413
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            76,
+            94
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            204,
+            204
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            94,
+            94
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            936,
+            936
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            222,
+            267
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            784,
+            784
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            969,
+            1149
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            565,
+            565
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1378,
+            1378
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            660,
+            660
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2234,
+            2422
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1048,
+            1048
+          ]
+        ]
+      }
+    ],
+    "other_sc_f": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            225,
+            225
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4483,
+            4483
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            10328,
+            10812
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3037,
+            4183
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            5214,
+            5214
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6883,
+            7468
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4411,
+            4411
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6608,
+            6608
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            10599,
+            10599
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            5638,
+            5638
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            8839,
+            9035
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            11474,
+            11474
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            9033,
+            9033
+          ]
+        ]
+      }
+    ],
+    "other_sc_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            227,
+            300
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2935,
+            3335
+          ]
+        ]
+      },
+      {
+        "branch": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            7202,
+            7202
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            6979,
+            7438
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6631,
+            6631
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1757,
+            2908
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3124,
+            3124
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3311,
+            3311
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3509,
+            4857
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4863,
+            4863
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3245,
+            4057
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            4391,
+            4391
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3457,
+            4722
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6702,
+            6702
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3995,
+            3995
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            5874,
+            5991
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            6083,
+            6083
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            4352,
+            4352
+          ]
+        ]
+      }
+    ],
+    "other_st_f": [
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1234,
+            1234
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2885,
+            2885
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1601,
+            1601
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2473,
+            2473
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2361,
+            2361
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2895,
+            2895
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            3844,
+            3844
+          ]
+        ]
+      }
+    ],
+    "other_st_m": [
+      {
+        "branch": "Architecture (5 Years, Bachelor of Architecture)",
+        "rounds": [
+          [
+            113,
+            113
+          ]
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            938,
+            1294
+          ]
+        ]
+      },
+      {
+        "branch": "Civil Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2264,
+            2466
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            999,
+            1373
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            1382,
+            1382
+          ]
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            1726,
+            1726
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1584,
+            2209
+          ]
+        ]
+      },
+      {
+        "branch": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            2418,
+            2418
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            1433,
+            1627
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            1728,
+            1728
+          ]
+        ]
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2087,
+            2184
+          ]
+        ]
+      },
+      {
+        "branch": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            3678,
+            3678
+          ]
+        ]
+      },
+      {
+        "branch": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            1773,
+            1773
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2085,
+            2404
+          ]
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+        "rounds": [
+          [
+            2784,
+            2784
+          ]
+        ]
+      },
+      {
+        "branch": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+        "rounds": [
+          [
+            2420,
+            2420
+          ]
+        ]
+      }
+    ]
+  }
+}
